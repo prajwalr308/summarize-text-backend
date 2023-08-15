@@ -1,6 +1,12 @@
 ### Create a virtual environment:
-```python -m venv venv```
+```bash
+python -m venv venv
+```
 ### Activate the virtual environment:
-```. env/Scripts/activate```
+```bash
+. env/Scripts/activate
+```
 ### Install the requirements:
-```pip install -r requirements.txt```
+```bash
+pip install -r requirements.txt
+```
