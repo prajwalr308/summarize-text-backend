@@ -1,0 +1,63 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Flask instance folder
+instance/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment and virtualenv related
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# PyBuilder
+target/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# Miscellaneous
+*.log
+*.bak
+*.swp
+*.swo
+myproject_env/
